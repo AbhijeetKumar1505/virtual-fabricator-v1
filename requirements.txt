@@ -1,0 +1,10 @@
+# Core Dependencies
+numpy>=1.19.5
+opencv-python>=4.5.1.48
+mediapipe>=0.8.9.1
+dearpygui>=1.9.0  # For the user interface
+
+# Development
+# These are included for development and testing
+# and can be excluded in production if not needed
+matplotlib>=3.4.2  # For visualization (optional)
